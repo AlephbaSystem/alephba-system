@@ -7,7 +7,7 @@
                         <a href="#">{{ __("Phone") }}: +98 – 051-35414180-82</a>
                     </li>
                     <li>
-                        <a href="#">{{ __("Email") }}: contact@arvin-sanat.com</a>
+                        <a href="#">{{ __("Email") }}: contact@alephba-system.ir</a>
                     </li>
                 </ul>
             </div>

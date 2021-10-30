@@ -1,7 +1,7 @@
 /* Fonts - Find/Replace your website fonts with your custom font name.*/
 @font-face {
 	font-family: "yekan";
-	src: url("webfonts/yekan-regular.woff");
+	src: url("../webfonts/yekan-regular.woff");
 }
 body {
 	font-size: 1em;

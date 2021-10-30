@@ -1,7 +1,7 @@
 <div class="header-inner">
     <div class="container">
         <!--Logo-->
-        <div id="logo"><img src="/images/logo.png" alt="Arvin-Sanat" />
+        <div id="logo"><img src="/images/logo.png" alt="Alephba-Sanat" />
             <a style="font-size: 18px;">
                 {{ __("AlephbaSystem") }}
             </a>
