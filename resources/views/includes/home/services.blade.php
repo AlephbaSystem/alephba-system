@@ -13,7 +13,7 @@
                     <div class="col-lg-6" data-animate="animate__flipInY" data-animate-delay="100">
                         <div class="icon-box effect small clean">
                             <div class="icon">
-                                <a href="#"><i class="fa fa-plug"></i></a>
+                                <a href="#"><i class="fa fa-mobile"></i></a>
                             </div>
                             <h3>{!! __("HS1_Title") !!}</h3>
                             <p>
@@ -25,7 +25,7 @@
                     <div class="col-lg-6" data-animate="animate__flipInY" data-animate-delay="400">
                         <div class="icon-box effect small clean">
                             <div class="icon">
-                                <a href="#"><i class="fas fa-wrench"></i></a>
+                                <a href="#"><i class="fa fa-desktop"></i></a>
                             </div>
                             <h3>{!! __("HS2_Title") !!}</h3>
                             <p>{!! __("HS2_Details") !!}</p>
@@ -35,7 +35,7 @@
                     <div class="col-lg-6" data-animate="animate__flipInY" data-animate-delay="1000">
                         <div class="icon-box effect small clean">
                             <div class="icon">
-                                <a href="#"><i class="fas fa-fan"></i></a>
+                                <a href="#"><i class="fa fa-shield"></i></a>
                             </div>
                             <h3>{!! __("HS3_Title") !!}</h3>
                             <p>{!! __("HS3_Details") !!}</p>
@@ -45,7 +45,7 @@
                     <div class="col-lg-6" data-animate="animate__flipInY" data-animate-delay="600">
                         <div class="icon-box effect small clean">
                             <div class="icon">
-                                <a href="#"><i class="fas fa-oil-can"></i></a>
+                                <a href="#"><i class="fa fa-line-chart"></i></a>
                             </div>
                             <h3>{!! __("HS4_Title") !!}</h3>
                             <p>{!! __("HS4_Details") !!}</p>
@@ -54,7 +54,7 @@
                     <div class="col-lg-6" data-animate="animate__flipInY" data-animate-delay="800">
                         <div class="icon-box effect small clean">
                             <div class="icon">
-                                <a href="#"><i class="fas fa-broadcast-tower"></i></a>
+                                <a href="#"><i class="fas fa-tasks"></i></a>
                             </div>
                             <h3>{!! __("HS5_Title") !!}</h3>
                             <p>{!! __("HS5_Details") !!}</p>
@@ -63,7 +63,7 @@
                     <div class="col-lg-6" data-animate="animate__flipInY" data-animate-delay="200">
                         <div class="icon-box effect small clean">
                             <div class="icon">
-                                <a href="#"><i class="fas fa-bolt"></i></a>
+                                <a href="#"><i class="fas fa-mail-bulk"></i></a>
                             </div>
                             <h3>{!! __("HS6_Title") !!}</h3>
                             <p>{!! __("HS6_Details") !!}</p>
