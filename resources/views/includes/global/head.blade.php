@@ -12,6 +12,21 @@
 <link href="css/style.css" rel="stylesheet">
 {!! __("RTLCSS") !!}
 {!! __("RTLFont") !!}
+<!-- Matomo Tag Manager -->
+<script>
+    var _mtm = window._mtm = window._mtm || [];
+    _mtm.push({
+        'mtm.startTime': (new Date().getTime()),
+        'event': 'mtm.Start'
+    });
+    var d = document,
+        g = d.createElement('script'),
+        s = d.getElementsByTagName('script')[0];
+    g.async = true;
+    g.src = 'https://wapi.alephba-system.ir/js/container_cd0eZUtI.js';
+    s.parentNode.insertBefore(g, s);
+</script>
+<!-- End Matomo Tag Manager -->
 <!-- Matomo -->
 <script>
     var _paq = window._paq = window._paq || [];
